@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hereader Book</string>
+    <string name="book_name">Judul Buku</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="card_view">Card View</string>
+    <string name="favorite">Favorite</string>
+    <string name="more_detail">More Detail</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="nurimammasri_01_gmail_com">nurimammasri.01@gmail.com</string>
+    <string name="namaku">Nur Imam Masri</string>
+    <string name="about">About</string>
+    <string name="rating">Rating</string>
+    <string name="URL">https://thegorbalsla.com/contoh-resensi-novel-fiksi-lengkap</string>
+    <string name="sumber">Sumber</string>
+</resources>
